@@ -6,12 +6,12 @@
 
     <parent>
         <groupId>com.lee.demo</groupId>
-        <artifactId>logback</artifactId>
+        <artifactId>logback-example</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.lee.demo</groupId>
-    <artifactId>template</artifactId>
+    <url>https://itwork4liu.iteye.com/blog/2292046</url>
+    <artifactId>example9-customTag</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     

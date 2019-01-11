@@ -16,11 +16,15 @@
     <description>Demo project for logback</description>
 
     <modules>
-        <module>para</module>
-        <module>template</module>
-        <module>AsyncAppender</module>
-        <module>mdc</module>
-        <module>color</module>
+        <module>example1-document</module>
+        <module>example2-para</module>
+        <module>example3-template</module>
+        <module>example4-asyncAppender</module>
+        <module>example5-mdc</module>
+        <module>example6-color</module>
+        <module>example7-jmx</module>
+        <module>example8-evaluator</module>
+        <module>example9-customTag</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>

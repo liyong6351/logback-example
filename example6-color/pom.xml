@@ -6,13 +6,14 @@
 
     <parent>
         <groupId>com.lee.demo</groupId>
-        <artifactId>logback</artifactId>
+        <artifactId>logback-example</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.lee.demo</groupId>
-    <artifactId>mdc</artifactId>
+    <artifactId>example6-color</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
+    <url>https://blog.csdn.net/qq_34313827/article/details/80394325</url>
 
     
 </project>

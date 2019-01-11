@@ -6,12 +6,11 @@
 
     <parent>
         <groupId>com.lee.demo</groupId>
-        <artifactId>logback</artifactId>
+        <artifactId>logback-example</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.lee.demo</groupId>
-    <artifactId>para</artifactId>
+    <artifactId>example1-document</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     
